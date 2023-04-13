@@ -241,6 +241,12 @@ footer {
   justify-content: space-between;
 }
 
+footer p{
+  color: whitesmoke;
+  margin:auto;
+  font-size:small;
+}
+
   /* Style for each column */
   .column {
     width: 30%;
