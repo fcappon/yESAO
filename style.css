@@ -90,26 +90,7 @@ body {
     max-width: 40%;
  }
 
-/* BECOME A MEMBER TOP BUTTON STYLING */
- .button2{
-  position: relative;
-  bottom:10%;
-  border-radius: 12px;
-  border: black;
-  text-align: center;
-  font-size: 14px;
-  background-color: black; 
-  color: white;
-  padding: 7px 7px;
-  margin-left:5%;
-  margin-bottom:10px;
-  text-decoration: none;
- }
 
-.button2:hover{
-  background-color: #E1E000;
-  color: black;
-}
 
 /* HERO IMAGE */
 .hero-image {
@@ -137,24 +118,6 @@ body {
 }
 
 
-/* ROUND CENTERED BLACK BUTTON */
-.button1 {
-    border-radius: 12px;
-    border: none;
-    padding: 7px 7px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    background-color: white;
-    opacity: 0.8;
-    color: black;
- }
-
-  .button1:hover{
-  background-color: #3951A1;
-  color: white;
-}
 
 /* QUOTE BOX FULL SCREEN WIDTH */
 
@@ -225,11 +188,6 @@ border: 2px solid black;
 transition: box-shadow 0.3s ease-in-out; /* adjust timing and easing to your liking */
 }
 
-.container .EventsMain:hover{
-  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); /* adjust values to your liking */
-  color: #3951A1;
-}
-
 /* UPCOMING EVENTS: OTHER */
 .container .EventsOther{
   display: block;
@@ -238,28 +196,7 @@ transition: box-shadow 0.3s ease-in-out; /* adjust timing and easing to your lik
   transition: box-shadow 0.3s ease-in-out; /* adjust timing and easing to your liking */
 }
 
-.container .EventsOther:hover{
-  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); /* adjust values to your liking */
-  color: #3951A1;
-}
 
-/* BUTTON 3 RIGHT OUTLINED */
-.container .button3{
-  margin: 10px 20px;
-  border: none;
-  position: absolute; 
-  right: 0;
-  padding: 7px 7px;
-  text-align: center;
-  text-decoration: none;
-  font-size: 16px;
-  background-color: #3951A1;
-  color: white;
-}
-
-  .button3:hover{
-    background-color: #2d4080;
-    }
 
 /* TEAM PROFILE PICTURE SLIDER */
 .carousel {
@@ -280,42 +217,7 @@ transition: box-shadow 0.3s ease-in-out; /* adjust timing and easing to your lik
     max-height: 180px;
   }
 
-/* BUTTON 4 BLUE CENTERED BUTTON */
-.button-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 60px;
-  background-color: #f2f2f2;
-}
 
-  .button4{
-    margin: 40px;
-    border: none;
-    padding: 7px 7px;
-    text-align: center;
-    text-decoration: none;
-    font-size: 16px;
-    background-color: #3951A1;
-    color: white;
-  }
-
-  .button4:hover{
-  background-color: #2d4080;
-  }
-
- .button5{
-    background-color: #3951A1;
-    border: none;
-    color: white;
-    padding: 7px 7px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    cursor: pointer;
-  }
 
 /*SPONSORS */
 .sponsor{
@@ -374,6 +276,9 @@ footer {
     margin-bottom: 20px;
     }
 
+    footer p{
+      font-style:italic;
+    }
 
 /* STYLING OF THE CONTACT FORM /*  
 
@@ -399,6 +304,7 @@ font-size: 16px;
 background-color: #3951A1;
 color: white;
 cursor: pointer;
+border-radius: 12px;
 }
 
 /* When moving the mouse over the submit button, add a darker green color */
@@ -406,3 +312,101 @@ input[type=submit]:hover {
   background-color: #2d4080;
 }
 
+/*BUTTON STYLES */
+.button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60px;
+  background-color: #f2f2f2;
+}
+/* BUTTON 1: ROUND CENTERED BLACK BUTTON */
+.button1 {
+  border-radius: 12px;
+  border: none;
+  padding: 7px 7px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  background-color: white;
+  opacity: 0.8;
+  color: black;
+}
+
+.button1:hover{
+background-color: #3951A1;
+color: white;
+}
+
+ /* BUTTON2: BECOME A MEMBER TOP BUTTON STYLING */
+ .button2{
+  position: relative;
+  bottom:10%;
+  border-radius: 12px;
+  border: black;
+  text-align: center;
+  font-size: 14px;
+  background-color: black; 
+  color: white;
+  padding: 7px 7px;
+  margin-left:5%;
+  margin-bottom:10px;
+  text-decoration: none;
+ }
+
+.button2:hover{
+  background-color: #E1E000;
+  color: black;
+}
+
+/* BUTTON 3: RIGHT OUTLINED */
+.container .button3{
+  margin: 10px 20px;
+  border: none;
+  position: absolute; 
+  right: 0;
+  padding: 7px 7px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  background-color: #3951A1;
+  color: white;
+  border-radius: 12px;
+}
+
+.button3:hover{
+  background-color: #2d4080;
+}
+
+
+/* BUTTON 4 BLUE CENTERED BUTTON */
+.button4{
+    margin: 40px;
+    border: none;
+    padding: 7px 7px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    background-color: #3951A1;
+    color: white;
+    border-radius: 12px;
+}
+
+.button4:hover{
+  background-color: #2d4080;
+}
+
+.button5{
+    background-color: #3951A1;
+    border: none;
+    color: white;
+    padding: 7px 7px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+}
