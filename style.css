@@ -150,6 +150,7 @@ body {
     padding-left: 20px;
     padding-right: 20px;
     user-select: none;
+    text-align: justify;
   }
 
   .container h2{
@@ -186,6 +187,7 @@ border: 2px solid black;
 transition: box-shadow 0.3s ease-in-out; /* adjust timing and easing to your liking */
 }
 
+
 /* UPCOMING EVENTS: OTHER */
 .container .EventsOther{
   display: block;
@@ -215,8 +217,6 @@ transition: box-shadow 0.3s ease-in-out; /* adjust timing and easing to your lik
     max-height: 180px;
   }
 
-
-
 /*SPONSORS */
 .sponsor{
   background-color:rgb(221, 221, 221);
@@ -234,7 +234,7 @@ transition: box-shadow 0.3s ease-in-out; /* adjust timing and easing to your lik
 
 /* Footer styling */
 footer {
-  background-color: #3951A1;
+  background-color: #1d2b57;
   padding: 20px;
   display: flex;
   flex-wrap: wrap;
@@ -245,6 +245,11 @@ footer p{
   color: whitesmoke;
   margin:auto;
   font-size:small;
+}
+
+footer img{
+  width: 100px;
+  height: auto;
 }
 
   /* Style for each column */
@@ -413,4 +418,51 @@ color: white;
     margin: 4px 2px;
     cursor: pointer;
     border-radius: 12px;
+}
+
+/* PAST TEAMMEMBER TABLE  */
+table {
+  border-collapse: collapse;
+  margin-bottom: 1em;
+  width: 100%;
+}
+
+table th,
+table td {
+  border: 1px solid #ddd;
+  padding: 0.5em;
+  text-align: left;
+}
+
+table th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+}
+
+table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+table td:first-child {
+  width: 15%;
+  text-align: center;
+}
+
+table tr:hover {
+  background-color: #ddd;
+}
+
+@media screen and (max-width: 600px) {
+  table {
+    font-size: 1qpx;
+  }
+}
+
+td {
+  padding: 8px;
+}
+
+.coordinator {
+  font-weight: bold;
+  color: blue;
 }

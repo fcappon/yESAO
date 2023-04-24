@@ -30,7 +30,7 @@ function myFunction() {
   const totalWidth =  (imageWidth + padding*2) * images.length; // calculate the total width of all the images in a slider
   const translate = (imageWidth + padding*2); // calculate how much each time the images move to the left
  
-  const maxSlides = Math.floor((totalWidth-1.25*visibleWidth)/translate); // calculate the number of times the images need to move to the left to show all
+  const maxSlides = Math.floor((totalWidth-1.15*visibleWidth)/translate); // calculate the number of times the images need to move to the left to show all
   console.log(maxSlides)
 
   let counter = 0;
