@@ -420,6 +420,10 @@ color: white;
     border-radius: 12px;
 }
 
+.button5:hover{
+  background-color: #2d4080;
+}
+
 /* PAST TEAMMEMBER TABLE  */
 table {
   border-collapse: collapse;
