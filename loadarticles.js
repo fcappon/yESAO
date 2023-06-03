@@ -106,13 +106,13 @@ var element1 = document.getElementById('latest-news1');
 if (element1 !== null){
 window.onload = function() {
 
-document.getElementById("latest-news1").innerHTML = "<img src="+ news[numArticles-2].image + "class='imageblog'" + "alt="+ news[numArticles-2].alt + "/>" + "<h2>"+ news[numArticles-2].title + "</h2>" + " <p> " + news[numArticles-2].shortText + " </p> "   
+document.getElementById("latest-news1").innerHTML = "<img src="+ news[0].image + "class='imageblog'" + "alt="+ news[0].alt + "/>" + "<h2>"+ news[0].title + "</h2>" + " <p> " + news[0].shortText + " </p> "   
 
-document.getElementById("latest-news2").innerHTML = "<h2>"+ news[numArticles-1].title + "</h2>" + " <p> " + news[numArticles-1].shortText + " </p> "
+document.getElementById("latest-news2").innerHTML = "<h2>"+ news[1].title + "</h2>" + " <p> " + news[1].shortText + " </p> "
 
-document.getElementById("latest-events1").innerHTML = "<img src="+ events[numEvents-2].image + "class='imageblog'" + "alt="+ events[numEvents-2].alt + "/>" + "<h2>"+ events[numEvents-2].title + "</h2>" + " <p> " + events[numEvents-2].shortText + " </p> "
+document.getElementById("latest-events1").innerHTML = "<img src="+ events[0].image + "class='imageblog'" + "alt="+ events[0].alt + "/>" + "<h2>"+ events[0].title + "</h2>" + " <p> " + events[0].shortText + " </p> "
 
-document.getElementById("latest-events2").innerHTML = "<h2>"+ events[numEvents-1].title + "</h2>" + " <p> " + events[numEvents-1].shortText + " </p> "
+document.getElementById("latest-events2").innerHTML = "<h2>"+ events[1].title + "</h2>" + " <p> " + events[1].shortText + " </p> "
 }
 }
 
