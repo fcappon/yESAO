@@ -17,6 +17,7 @@ body {
   h1 {
     user-select: none;
   }
+
   a{
     text-decoration: none;
     color: unset;
@@ -316,7 +317,7 @@ cursor: pointer;
 border-radius: 12px;
 }
 
-/* When moving the mouse over the submit button, add a darker green color */
+/* When moving the mouse over the submit button, add a darker color */
 input[type=submit]:hover {
   background-color: #2d4080;
 }

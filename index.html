@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <html>
+  
 <head>
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-HZLRECNXYS"></script>
@@ -22,21 +22,20 @@
     <title>yESAO | Join us today!</title>
     <!--CSS-->
     <link rel="stylesheet" href="./style.css" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">   
     <!--Java Script-->
     <script src="./script.js" defer></script> 
+    <script src="./loadarticles.js" defer></script>
     
 </head>
 
-<body>
-      
+<body>     
 <div class="toplogo">
     <img src="./images/YoungESAOLogo(SVGformat).svg" alt="yESAO Logo" class="yESAO">
     <button class="button2"><a href="http://www.esao.org/membership-application/">Become a Member</a></button>
 </div>
 
-        <div class="topnav" id="myTopnav">
+<div class="topnav" id="myTopnav">
             <a href="./" class="active">Home</a>
             <a href="./news">News</a>
             <a href="./about">Events</a>
@@ -46,64 +45,36 @@
             <a href="javascript:void(0);" class="icon" onclick="myFunction()">
             <i class="fa fa-bars"></i>
             </a>
-        </div>
+</div>
 
-          <div class="hero-image">
+<div class="hero-image">
             <img src="./images/heroimage.jpg"> 
             <div class="hero-text">
                   <button class="button1"><a href="./about">About Us</a></button>
             </div>
-          </div>
-       <div class="quote">
-            <p>Welcome to the young European Society of Artificial Organs! We are a young, dynamic research society comprised of some of the brightest minds in the field of artificial organs. Our aim is to advance the field of artificial organ technology through innovative research and collaboration.</p>
-          </div>
-
-<div class="container">
-          <h1>Upcoming Events</h1>
-          <div class="EventsMain">
-                <img src="https://www.esao.org/wp-content/uploads/2023/01/ESAO_Congress_2023_Bergamo.jpg" alt="ESAO and IFAO Congress August 29-September 1,2023 Bergamo Italy" class="imageblog"/>
-                <h2>yESAO Congress 2023</h2>
-                <p>August 28th till 29th in Bergamo, Italy. We are looking forward to meeting you all! We are preparing an exciting program.</p>
-          </div>
-
-          <div class="EventsOther">
-                <h2>yESAO Webinar 2023</h2>
-                <p>Join us for the first ever yESAO webinar in 2023</p>
-                
-          </div>
-
-          <button class="button3"><a href="./events">View All</a></button> 
 </div>
 
-<!--Begin News and Announcements-->
+<div class="quote">
+            <p>Welcome to the young European Society of Artificial Organs! We are a young, dynamic research society comprised of some of the brightest minds in the field of artificial organs. Our aim is to advance the field of artificial organ technology through innovative research and collaboration.</p>
+</div>
+
+<!--UPCOMING EVENTS-->
+<div class="container">
+    <h1>Upcoming Events</h1>
+      <div id="latest-events1" class="EventsOther"></div>
+      <div id="latest-events2" class="EventsOther"></div>
+    <button class="button3"><a href="./events">View All</a></button> 
+</div>   
+
+<!--BEGIN NEWS-->
 <div class="container">
   <h1>News and Announcements</h1>
-  <div class="EventsMain">
-    <img src="https://media.cntraveler.com/photos/5ad0ca78fb3e8334dea6e22e/16:9/w_2560%2Cc_limit/GettyImages-88786323.jpg" alt="Pin board with Europe and world map" class="imageblog"/>
-    <h2>Submission Deadline for I3M 2023 Extended until May 15th!</h2>  
-    <p>We would like to draw your attention to the upcoming 20th International Multidisciplinary Modeling & Simulation Multiconference (I3M 2023) taking place in Athens from September 18-20, 2023. As part of I3M 2023, there will be a yESAO-endorsed track about Modelling and Simulation of Device Interface with Physiological Environment. Don't miss this opportunity and submit your contributions NOW!</p>  
-    <ul><li>Contributions in the form of a paper (minimum length of 3 pages, maximum length of 10 pages): <a href="https://lnkd.in/eUC3-Ba7">https://lnkd.in/eUC3-Ba7</a></li>
-    <li>Submission deadline: May 15th, 2023 <a href="https://lnkd.in/eXzmrAky">https://lnkd.in/eXzmrAky</a></li>
-    <li>Three different awards will be granted for submitted papers: <a href="https://lnkd.in/eUC3-Ba7">https://lnkd.in/eUC3-Ba7</a></li>
-    <li>Important: Online participation is possible!</li>
-    </ul>
-  </div>
-
-  <div class="EventsOther">
-        <h2>The yESAO Exchange Award 2023</h2>
-        <p>The application period for the yESAO Exchange Program Award 2023 will begin on 1st December 2022. The deadline for the applications is 20th February 2023. </p>
-  </div>
-
-  <div class="EventsOther">
-        <h2>yESAO Congress 2022</h2>
-        <p>We're happy to report that the ESAO conference in Krems, Austria from September 6th-10th, 2022 was a great success, with the yESAO conference taking place from September 6th-7th as part of the event. </p>
-  </div>
-
+    <div id="latest-news1" class="EventsOther"></div>
+    <div id="latest-news2" class="EventsOther"></div>
   <button class="button3"><a href="./news">View All</a></button> 
 </div>
-<!--End News and Announcements-->
 
-<div class="carousel">
+<div class="carousel" id="team-carousel">
   <div class="slider">
     <img src="./images/profilepictures/Andi.jpg">
     <img src="./images/profilepictures/Anna.jpg">
