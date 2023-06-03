@@ -204,6 +204,7 @@ transition: box-shadow 0.3s ease-in-out; /* adjust timing and easing to your lik
 .carousel {
   overflow: hidden;
   width: 80%;
+  max-width: 1000px;
   margin: 0 auto; /* center the container horizontally */
 }
 
