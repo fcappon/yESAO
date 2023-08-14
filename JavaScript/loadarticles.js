@@ -7,17 +7,17 @@ const events =[{
     longText: "We are excited to announce the upcoming European Society for Artificial Organs (ESAO) conference in Bergamo, Italy, taking place from August 28th to September 1st, 2023. This conference is a significant event in the field of Artificial Organs and will bring together researchers, clinicians, and industry professionals from all over the world to discuss the latest advancements in the field.<br><br> As part of the ESAO conference, the yESAO meeting will take place on August 28th-29th, offering young researchers a platform to present their research and network with peers and senior members in the field.<br><br> The conference program includes keynote lectures, symposia, oral and poster presentations, and exhibition of the latest technological advancements in Artificial Organs. This is an excellent opportunity to learn about cutting-edge research, explore new technologies, and connect with colleagues from different parts of the world.<br><br> We invite all researchers, clinicians, and industry professionals interested in Artificial Organs to participate in this exciting event. Don't miss the chance to expand your knowledge, connect with peers, and enjoy the beautiful city of Bergamo. <br><br> Stay tuned for more updates and registration details. We look forward to welcoming you in Bergamo!<br><br> <button class='button5'><a href='https://www.esao2023.com/' target='_blank'>Website ESAO 2023</a></button>",
     image:"'https://www.esao.org/wp-content/uploads/2023/01/ESAO_Congress_2023_Bergamo.jpg'",
     alt:"ESAO and IFAO Congress August 29-September 1,2023 Bergamo Italy",
-},
-{
-    title:"yESAO Webinar 2023",
-    shortText: "Join us for the first ever yESAO webinar on 11.07.2023 from 12 pm to 1 pm (CEST). We will cover some essential tips and tricks for attending and presenting at conferences.",
-    longText: "We are excited to announce the launch of the yESAO webinar series, a new initiative to connect and support young researchers in the field of artificial organs. The first webinar will take place on 11.07.2023 from 12 pm to 1 pm (CEST) and will cover some essential tips and tricks for attending and presenting at conferences. Whether you are new to the symposium scene or a seasoned attendee, you will find valuable insights from our speakers: Martin Maw will share his experience of attending his first conference and what to expect there, Femke Cappon will give some advice on how to prepare your conference talk, and Tom Bode will introduce the yESAO Buddy Programme, a mentoring scheme that pairs up junior and senior members. To join the webinar, please use the button to sign up and we will send you a link to the video conference. We hope to see you there! If you have any questions, please feel free to contact the webinar team.<br><br><button class='button5'><a href='https://docs.google.com/forms/d/e/1FAIpQLScZCT7HrSeH1gVWRrUcKL7YyW3gkENBlHqiIE5aMG1zuRb2ag/viewform' target='_blank'>Sign Up</a></button>",
-    image:"'https://media.licdn.com/dms/image/D4D22AQGlOCe_jZ63sg/feedshare-shrink_1280/0/1685723530278?e=1688601600&v=beta&t=Frna3T02rgXG3s6qi2NiSEQpicmM6oUYYmsHP5kQeog'",
-    alt:"advertisement poster of the yESAo webinar",
 }]
 
 // past event data
 const pastevents =[
+{
+    title:"yESAO Webinar 2023",
+    shortText: "Join us for the first ever yESAO webinar on 11.07.2023 from 12 pm to 1 pm (CEST). We will cover some essential tips and tricks for attending and presenting at conferences.",
+    longText: "We hope you found the webinar on essential tips and tricks for attending and presenting at conferences valuable and insightful. The knowledge shared by our esteemed speakers, Martin Maw, Femke Cappon, and Tom Bode, was truly exceptional, and we trust that you gained practical guidance to enhance your conference experiences. Thank you Gesine Hentschel for hosting the session. <br><br> But this is just the beginning! We are thrilled to announce that we have more exciting events coming up, including the yESAO in the end of August. We can't wait to see you all there, as we gather to celebrate and connect with fellow young researchers in the field of artificial organs. <br><br> In addition to the yESAO, we will continue hosting more webinars in the future, covering various topics of interest to our community. Your feedback and suggestions are invaluable to us, and we encourage you to share your thoughts. You can comment or message us directly here on the <a href='./contact'>Contact</a> page , or send an email to yesao@esao.org. We greatly appreciate your input and are committed to creating events that truly cater to your needs. Stay connected, stay engaged, and let's continue to learn, grow, and support one another in this amazing journey.",
+    image:"'./images/webinar1.png'",
+    alt:"advertisement poster of the yESAo webinar with speakers Femke Cappon, Martin Maw and Tom Bode portraited",
+},
 {
     title:"48th Annual ESAO Congress 2022",
     longText: "We're happy to report that the ESAO conference in Krems, Austria from September 6th-10th, 2022 was a great success, with the yESAO conference taking place from September 6th-7th as part of the event. Young researchers from all over the world came together to present their work, engage in stimulating discussions, and forge connections with colleagues in the field. The yESAO conference in particular was a highlight, with participants enjoying a variety of informative and thought-provoking talks, as well as opportunities for networking and collaboration. Overall, the conference was a valuable experience for all involved and we look forward to continuing to support the next generation of researchers in the field of artificial organs.",
@@ -48,10 +48,18 @@ const pastevents =[
 const news = 
 [
 {
+title: "Join our new conference buddy program",
+shortText: "New to the conference world? Unsure what to expect? Coming to (y)ESAO on your own? The newly initiated Buddy Programm will bring together newbies and experienced yESAO Members to buddy up during the conference! We encourage the exchange of experience, practicing before, taking pictures during and giving feedback after the presentation. To join, just fill out the form which we will send out to those registered for the yESAO conference.",
+longText: "New to the conference world? Unsure what to expect? Coming to (y)ESAO on your own? The newly initiated Buddy Programm will bring together newbies and experienced yESAO Members to buddy up during the conference! We encourage the exchange of experience, practicing before, taking pictures during and giving feedback after the presentation. To join, just fill out the form which we will send out to those registered for the yESAO conference. <br><br>",
+image:"'./images/buddyprogram.jpeg'",
+alt: ""
+},
+
+{
 title: "yESAO to Host Our First-Ever Webinar on Artificial Organs and Early Career Research Skills",
 shortText: "The European Society for Artificial Organs (ESAO) is excited to announce that we are currently in the process of organising our first-ever webinar.",
 longText: "The European Society for Artificial Organs (ESAO) is excited to announce that we are currently in the process of organising our first-ever webinar. This is a significant milestone for the society and a fantastic opportunity for researchers in the field of artificial organs to come together and share their knowledge and experiences.<br><br> The webinar will focus on a range of topics related to artificial organs research, including new technologies, innovative research projects, and emerging trends in the field. Attendees will have the opportunity to learn from leading experts in the field and engage in lively discussions and debates on the latest research findings.<br><br>At this stage, we are still in the planning phase and have not yet opened registration for the webinar. However, we encourage all members of the ESAO and those interested in artificial organs research to stay tuned for further updates and information.<br><br> We are working hard to ensure that this webinar is a success and a valuable experience for all attendees. Our team is currently finalising details of the programme and speakers, and we will provide further information on the registration process as soon as possible.<br><br>This webinar is just one of the many exciting initiatives that the ESAO is working on to advance the field of artificial organs and promote collaboration among researchers. We are committed to creating opportunities for young researchers to develop their skills and knowledge, and to providing a platform for established experts to share their expertise.<br><br>",
-image:"'./images/webinar.jpg'",
+image:"'./images/webinar1.png'",
 alt: "young man talking to a camera for a webinar"
 },
 
