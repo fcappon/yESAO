@@ -7,7 +7,17 @@ const events =[{
     longText: "We are excited to announce the upcoming European Society for Artificial Organs (ESAO) conference in Bergamo, Italy, taking place from August 28th to September 1st, 2023. This conference is a significant event in the field of Artificial Organs and will bring together researchers, clinicians, and industry professionals from all over the world to discuss the latest advancements in the field.<br><br> As part of the ESAO conference, the yESAO meeting will take place on August 28th-29th, offering young researchers a platform to present their research and network with peers and senior members in the field.<br><br> The conference program includes keynote lectures, symposia, oral and poster presentations, and exhibition of the latest technological advancements in Artificial Organs. This is an excellent opportunity to learn about cutting-edge research, explore new technologies, and connect with colleagues from different parts of the world.<br><br> We invite all researchers, clinicians, and industry professionals interested in Artificial Organs to participate in this exciting event. Don't miss the chance to expand your knowledge, connect with peers, and enjoy the beautiful city of Bergamo. <br><br> Stay tuned for more updates and registration details. We look forward to welcoming you in Bergamo!<br><br> <button class='button5'><a href='https://www.esao2023.com/' target='_blank'>Website ESAO 2023</a></button> <a href='./yESAO_Program_2023.pdf' target='_blank'> <button class='button5'>Download Program</button> </a>",
     image:"'https://www.esao.org/wp-content/uploads/2023/01/ESAO_Congress_2023_Bergamo.jpg'",
     alt:"ESAO and IFAO Congress August 29-September 1,2023 Bergamo Italy",
-}]
+},
+
+{
+    title: "yESAO Webinar 2023",
+    shortText: "Exciting news! We are currently in the process of planning a new webinar that promises to be both informative and engaging. Stay tuned for more details, as we will be sharing additional information soon. Prepare to expand your knowledge and join us for an insightful session that explores the latest developments in our field. Keep an eye out for updates and be among the first to secure your spot for this upcoming webinar!",
+    longText: "Exciting news! We are currently in the process of planning a new webinar that promises to be both informative and engaging. Stay tuned for more details, as we will be sharing additional information soon. Prepare to expand your knowledge and join us for an insightful session that explores the latest developments in our field. Keep an eye out for updates and be among the first to secure your spot for this upcoming webinar!",
+    image:"'./images/webinar.jpg'",
+    alt:"a person hosting a webinar at home in front of his pc",
+}
+
+]
 
 // past event data
 const pastevents =[
@@ -56,12 +66,12 @@ alt: "Two woman in formal clothes helping eachother in an office environment"
 },
 
 {
-    title: "The yESAO Program is now availible!",
-    shortText: "We are pleased to announce that the yESAO conference program is now available for download! Discover the exciting lineup of events, presentations, and workshops that await you. Simply click the link below to access the program and start planning your conference experience. We look forward to welcoming you to an enriching and engaging yESAO conference. Download the program now and get ready for a memorable event!",
-    longText: "We are pleased to announce that the yESAO conference program is now available for download! Discover the exciting lineup of events, presentations, and workshops that await you. Simply click the link below to access the program and start planning your conference experience. We look forward to welcoming you to an enriching and engaging yESAO conference. Download the program now and get ready for a memorable event! <br><br> <a href='./yESAO_Program_2023.pdf' target='_blank'> <button class='button5'>Download Program</button> </a>",
-    image:"'./images/heroimageabout.jpeg'",
-    alt: ""
-    },
+title: "The yESAO Program is now availible!",
+shortText: "We are pleased to announce that the yESAO conference program is now available for download! Discover the exciting lineup of events, presentations, and workshops that await you. Simply click the link below to access the program and start planning your conference experience. We look forward to welcoming you to an enriching and engaging yESAO conference. Download the program now and get ready for a memorable event! <br><br> <a href='./yESAO_Program_2023.pdf' target='_blank'> <button class='button5'>Download Program</button> </a>",
+longText: "We are pleased to announce that the yESAO conference program is now available for download! Discover the exciting lineup of events, presentations, and workshops that await you. Simply click the link below to access the program and start planning your conference experience. We look forward to welcoming you to an enriching and engaging yESAO conference. Download the program now and get ready for a memorable event! <br><br> <a href='./yESAO_Program_2023.pdf' target='_blank'> <button class='button5'>Download Program</button> </a>",
+image:"'./images/heroimageabout.jpg'",
+alt: ""
+},
 
 {
 title: "yESAO to Host Our First-Ever Webinar on Artificial Organs and Early Career Research Skills",
