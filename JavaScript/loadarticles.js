@@ -1,26 +1,34 @@
 // articles
 
 // event data
-const events =[{
-    title: "yESAO Congress 2023",
-    shortText: "August 28th till 29th in Bergamo, Italy. We are looking forward to meeting you all! We are preparing an exciting program. <a href='./yESAO_Program_2023.pdf' target='_blank'> <button class='button5'>Download Program</button> </a>",
-    longText: "We are excited to announce the upcoming European Society for Artificial Organs (ESAO) conference in Bergamo, Italy, taking place from August 28th to September 1st, 2023. This conference is a significant event in the field of Artificial Organs and will bring together researchers, clinicians, and industry professionals from all over the world to discuss the latest advancements in the field.<br><br> As part of the ESAO conference, the yESAO meeting will take place on August 28th-29th, offering young researchers a platform to present their research and network with peers and senior members in the field.<br><br> The conference program includes keynote lectures, symposia, oral and poster presentations, and exhibition of the latest technological advancements in Artificial Organs. This is an excellent opportunity to learn about cutting-edge research, explore new technologies, and connect with colleagues from different parts of the world.<br><br> We invite all researchers, clinicians, and industry professionals interested in Artificial Organs to participate in this exciting event. Don't miss the chance to expand your knowledge, connect with peers, and enjoy the beautiful city of Bergamo. <br><br> Stay tuned for more updates and registration details. We look forward to welcoming you in Bergamo!<br><br> <button class='button5'><a href='https://www.esao2023.com/' target='_blank'>Website ESAO 2023</a></button> <a href='./yESAO_Program_2023.pdf' target='_blank'> <button class='button5'>Download Program</button> </a>",
-    image:"'https://www.esao.org/wp-content/uploads/2023/01/ESAO_Congress_2023_Bergamo.jpg'",
-    alt:"ESAO and IFAO Congress August 29-September 1,2023 Bergamo Italy",
-},
-
+const events =[
 {
-    title: "yESAO Webinar 2023",
-    shortText: "Exciting news! We are currently in the process of planning a new webinar that promises to be both informative and engaging. Stay tuned for more details, as we will be sharing additional information soon. Prepare to expand your knowledge and join us for an insightful session that explores the latest developments in our field. Keep an eye out for updates and be among the first to secure your spot for this upcoming webinar!",
-    longText: "Exciting news! We are currently in the process of planning a new webinar that promises to be both informative and engaging. Stay tuned for more details, as we will be sharing additional information soon. Prepare to expand your knowledge and join us for an insightful session that explores the latest developments in our field. Keep an eye out for updates and be among the first to secure your spot for this upcoming webinar!",
-    image:"'./images/webinar.jpg'",
+    title: "yESAO Webinar 2023 - Mental Wellbeing During Your PhD",
+    shortText: "The Young European Artificial Organs Society (yESAO) is excited to invite you to the second webinar of our webinar series. Mark your calendars for 15th November 2023, from 1:30 to 2:30 PM (CET), as we will be discussing 'Mental Wellbeing During Your PhD'. Register your spot now! <br> <button class='button5'><a href='https://docs.google.com/forms/d/e/1FAIpQLScbnyeUJ0g4LL3kaavAdY6uaANEfwmhi9rUZrIciSQmHJeskg/viewform'>Register</a></button>",
+    longText: "The Young European Artificial Organs Society (yESAO) is excited to invite you to the second webinar of our webinar series. Mark your calendars for 15th November 2023, from 1:30 to 2:30 PM (CET), as we will be discussing 'Mental Wellbeing During Your PhD. Navigating the challenges of doctoral studies can be a taxing journey. That's why we're bringing in Aaron Penberthy, a Psychological Wellbeing Practitioner, to shed light on effective coping strategies and ways to navigate common stressful situations encountered during this pivotal phase of your academic career. Register your spot now! <br> <button class='button5'><a href='https://docs.google.com/forms/d/e/1FAIpQLScbnyeUJ0g4LL3kaavAdY6uaANEfwmhi9rUZrIciSQmHJeskg/viewform'>Register</a></button>",
+    image:"'./images/webinar2.png'",
     alt:"a person hosting a webinar at home in front of his pc",
+},
+{
+    title: "yESAO Congress 2024",
+    shortText: "We are excited to announce the upcoming European Society for Artificial Organs (ESAO) conference in Aachen, Germany, taking place from September 11  to September 14, 2024. This conference is a significant event in the field of Artificial Organs and will bring together researchers, clinicians, and industry professionals from all over the world to discuss the latest advancements in the field. Stay tuned for more updates and registration details. We look forward to welcoming you in Aachen!<br><br> <button class='button5'><a href='https://www.esao2024.com/' target='_blank'>Website ESAO 2024</a></button>",
+    longText: "We are excited to announce the upcoming European Society for Artificial Organs (ESAO) conference in Aachen, Germany, taking place from September 11  to September 14, 2024. This conference is a significant event in the field of Artificial Organs and will bring together researchers, clinicians, and industry professionals from all over the world to discuss the latest advancements in the field.<br><br> As part of the ESAO conference, the yESAO meeting will take place on September 10 - 11, offering young researchers a platform to present their research and network with peers and senior members in the field.<br><br> The conference program includes keynote lectures, symposia, oral and poster presentations, and exhibition of the latest technological advancements in Artificial Organs. This is an excellent opportunity to learn about cutting-edge research, explore new technologies, and connect with colleagues from different parts of the world.<br><br> We invite all researchers, clinicians, and industry professionals interested in Artificial Organs to participate in this exciting event. Don't miss the chance to expand your knowledge, connect with peers, and enjoy the beautiful city of Aachen. <br><br> Stay tuned for more updates and registration details. We look forward to welcoming you in Aachen!<br><button class='button5'><a href='https://www.esao2024.com/' target='_blank'>Website ESAO 2024</a></button>",
+    image:"'https://www.esao.org/wp-content/uploads/2023/09/ESAO_2024-1200x675.png'",
+    alt:"ESAO and IFAO Congress Aachen Germany",
 }
 
 ]
 
 // past event data
 const pastevents =[
+{title: "yESAO Congress 2023 - A Heartfelt Thank You to All Attendees",
+shortText: "As the echoes of our recent gathering fade, the memories of the vibrant discussions, insightful presentations, and the spirit of collaboration continue to inspire us. We are immensely grateful to each one of you who joined us in Bergamo, Italy, for the yESAO 2023 Conference. Your presence turned this event into a melting pot of ideas and a beacon of innovation in the field of artificial organs.",
+longText: "As the echoes of our recent gathering fade, the memories of the vibrant discussions, insightful presentations, and the spirit of collaboration continue to inspire us. We are immensely grateful to each one of you who joined us in Bergamo, Italy, for the yESAO 2023 Conference. Your presence turned this event into a melting pot of ideas and a beacon of innovation in the field of artificial organs. <br><br> A special round of applause goes to our esteemed keynote speakers, <strong>Dr. Michael Neidlin</strong> and <strong>Prof. Seraina Dual</strong>, whose expertise and passion set the stage for a conference brimming with knowledge and foresight. Your contributions were not just presentations; they were the sparks that ignited conversations that will undoubtedly continue to resonate within our community.<br><br> We also extend our deepest gratitude to the institutes: the <strong>Clinical Center Aldo and Cele Daccò,  Villa Camozzi</strong> and the <strong>Anna Maria Astori Center, Science and Technology Park Kilometro Rosso</strong>.<br><br> As we reflect on the success of the conference, we are reminded that each breakthrough, each shared experience, and each new connection is a step forward for our society. The yESAO is more than just a community; it's a growing family of dedicated professionals committed to the advancement of artificial organs. <br><br> Let's carry the momentum forward, fostering the connections made and knowledge gained as we continue to push the boundaries of science and technology. Here's to the shared journey ahead and to the next chapter that we will write together. <br><br> Stay tuned for updates on our future events and initiatives. We are already looking forward to welcoming you again with open arms and curious minds.",
+image:"'./images/yesao2023.jpg'",
+alt:"ESAO and IFAO Congress Aachen Germany",
+
+},
+
 {
     title:"yESAO Webinar 2023",
     shortText: "Join us for the first ever yESAO webinar on 11.07.2023 from 12 pm to 1 pm (CEST). We will cover some essential tips and tricks for attending and presenting at conferences.",
@@ -31,7 +39,7 @@ const pastevents =[
 {
     title:"48th Annual ESAO Congress 2022",
     longText: "We're happy to report that the ESAO conference in Krems, Austria from September 6th-10th, 2022 was a great success, with the yESAO conference taking place from September 6th-7th as part of the event. Young researchers from all over the world came together to present their work, engage in stimulating discussions, and forge connections with colleagues in the field. The yESAO conference in particular was a highlight, with participants enjoying a variety of informative and thought-provoking talks, as well as opportunities for networking and collaboration. Overall, the conference was a valuable experience for all involved and we look forward to continuing to support the next generation of researchers in the field of artificial organs.",
-    image:"'./images/heroimageabout.jpg'",
+    image:"'./images/yesao2022.jpg'",
     alt:"Group pictures of participants of the yESAO conference 2022"
 },
 {
@@ -57,6 +65,14 @@ const pastevents =[
 // news data
 const news = 
 [
+{
+title: "yESAO Congress 2024",
+shortText: "Join us for the yESAO 2024 Conference in the historic and vibrant city of Aachen, Germany! As we continue to explore the cutting-edge advancements in artificial organs, this conference promises to be a hub of innovation and collaboration. Engage with leading experts, share your research, and connect with peers from around the world. Our upcoming congress will take place September 10 - 11, 2024, in Aachen. More information will follow early 2024. Save the date for a transformative experience that will inspire your work and spark lasting connections in the field. We can't wait to welcome you to Aachen for an event that's set to shape the future of biomedical engineering! <br> <button class = 'button5'> <a href='https://www.esao2024.com/' target='_blank'>Website ESAO 2024</a></button>",
+longText: "Join us for the yESAO 2024 Conference in the historic and vibrant city of Aachen, Germany! As we continue to explore the cutting-edge advancements in artificial organs, this conference promises to be a hub of innovation and collaboration. Engage with leading experts, share your research, and connect with peers from around the world. Our upcoming congress will take place September 10 - 11, 2024, in Aachen. More information will follow early 2024. Save the date for a transformative experience that will inspire your work and spark lasting connections in the field. We can't wait to welcome you to Aachen for an event that's set to shape the future of biomedical engineering! <br> <button class = 'button5'> <a href='https://www.esao2024.com/' target='_blank'>Website ESAO 2024</a></button>",
+image:"'https://www.esao.org/wp-content/uploads/2023/09/ESAO_2024-1200x675.png'",
+alt:"ESAO and IFAO Congress Aachen Germany",
+},
+
 {
 title: "Join our new conference buddy program",
 shortText: "New to the conference world? Unsure what to expect? Coming to (y)ESAO on your own? The newly initiated Buddy Programm will bring together newbies and experienced yESAO Members to buddy up during the conference! We encourage the exchange of experience, practicing before, taking pictures during and giving feedback after the presentation. To join, just fill out the form which we will send out to those registered for the yESAO conference.",
