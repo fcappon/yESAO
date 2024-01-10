@@ -65,6 +65,7 @@ alt:"ESAO and IFAO Congress Aachen Germany",
 // news data
 const news = 
 [
+
 {
     title: "yESAO Launches 2024 Research Exchange Program for Young Researchers",
     shortText: "The Young European Artificial Organs Society (yESAO) is thrilled to announce the 2024 Research Exchange Program. This initiative offers ESAO junior members a unique opportunity to collaborate and train at different research institutes in the field of Artificial Organs. Interested candidates should submit their applications, including a cover page, exchange proposal, CVs, and letters of support, to yesao@esao.org by 19th January 2024. Embrace this chance to expand your research network and experience! For more details, downlaod the call. <br><br> <a href='./Exchange_Program_Award_2024.pdf' target='_blank'> <button class='button5'>Download Call</button> </a>",
