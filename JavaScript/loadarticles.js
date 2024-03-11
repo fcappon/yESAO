@@ -68,10 +68,18 @@ const news =
 [
 
 {
-    title: "yESAO Launches 2024 Research Exchange Program for Young Researchers",
-    shortText: "The Young European Artificial Organs Society (yESAO) is thrilled to announce the 2024 Research Exchange Program. This initiative offers ESAO junior members a unique opportunity to collaborate and train at different research institutes in the field of Artificial Organs. Interested candidates should submit their applications, including a cover page, exchange proposal, CVs, and letters of support, to yesao@esao.org by 19th January 2024. Embrace this chance to expand your research network and experience! - The applications are now closed. - ",
-    longText: "The Young European Artificial Organs Society (yESAO) is thrilled to announce the 2024 Research Exchange Program. This initiative offers ESAO junior members a unique opportunity to collaborate and train at different research institutes in the field of Artificial Organs.<ul><li><strong>Eligibility:</strong> Open to yESAO members; previous winners are ineligible.</li><li><strong>Program Structure:</strong> Two-step exchange with a minimum of two weeks at each institute.</li><li><strong>Application Deadline:</strong> 19th January 2024.</li>   <li><strong>Funding:</strong> 750 Euro per researcher.</li>   <li><strong>Post-Exchange:</strong> Participants to submit a summary and present their experience at the ESAO meeting.</li></ul>Interested candidates should submit their applications, including a cover page, exchange proposal, CVs, and letters of support, to yesao@esao.org by 19th January 2024. Embrace this chance to expand your research network and experience! For more details, downlaod the call.  - The applications are now closed. - ",
-    image:"'./images/exchangeaward-2024.jpg'",
+        title: "yESAO Special Issue - International Journal for Artificial Organs",
+        shortText: "Directed to the young researchers in our community and beyond we set up a special issue, with the option of talking to your editor and get feedback to your manuscript! A once in a research lifetime experience. Don't miss out! If you are interested to submit a manuscript for publication in this Special Issue, we kindly ask you to send an email message to the Editorial Secretary (nollisilvia@gmail.com) with a suggested title of the contribution. ",
+        longText: "We would like to extend to you and your colleagues the special invitation by Prof. Andrea Remuzzi to submit an article for possible publication in an upcoming youngESAO Special Issue of the International Journal for Artificial Organs (IJAO, IF=1.7). The yESAO Special Issue will be published next August and will reach a wide audience within the academic community. If you are interested to submit a manuscript for publication in this Special Issue, we kindly ask you to send an email message to the Editorial Secretary (nollisilvia@gmail.com) with a suggested title of the contribution. We ask you to send us this message by Mach 15th. The deadline for the manuscript submissions will be April 30th, which allows time for preparation and review. The Authors will have the possibility to apply for the SAGE award and the winning authors can present their work at the ESAO 2024 conference, providing a platform for networking and recognition. ",
+        image:"'./images/yesao_SI_cut_logo_blue.png'",
+        alt:"modern research laboratory scene, featuring young researchers of diverse ethnicities collaborating and discussing over a digital tablet. The background showcases a world map and flags, emphasizing international collaboration in a vibrant scientific environment.",
+ },
+
+{
+    title: "yESAO is thrilled to announce the Winners of the 2024 yESAO Exchange Awards",
+    shortText: "After reviewing the several high-quality applications, we are thrilled to announce the Winners of the yESAO 2024 Exchange Award.",
+    longText: "After reviewing the several high-quality applications, we are thrilled to announce the Winners of the yESAO 2024 Exchange Award. ",
+    image:"'./images/exchangeawards2024_2.png'",
     alt:"modern research laboratory scene, featuring young researchers of diverse ethnicities collaborating and discussing over a digital tablet. The background showcases a world map and flags, emphasizing international collaboration in a vibrant scientific environment.",
 },
 
