@@ -66,14 +66,13 @@ alt:"ESAO and IFAO Congress Aachen Germany",
 // news data
 const news = 
 [
-
 {
-        title: "yESAO Special Issue - International Journal for Artificial Organs",
-        shortText: "Directed to the young researchers in our community and beyond we set up a special issue, with the option of talking to your editor and get feedback to your manuscript! A once in a research lifetime experience. Don't miss out! If you are interested to submit a manuscript for publication in this Special Issue, we kindly ask you to send an email message to the Editorial Secretary (nollisilvia@gmail.com) with a suggested title of the contribution. ",
-        longText: "We would like to extend to you and your colleagues the special invitation by Prof. Andrea Remuzzi to submit an article for possible publication in an upcoming youngESAO Special Issue of the International Journal for Artificial Organs (IJAO, IF=1.7). The yESAO Special Issue will be published next August and will reach a wide audience within the academic community. If you are interested to submit a manuscript for publication in this Special Issue, we kindly ask you to send an email message to the Editorial Secretary (nollisilvia@gmail.com) with a suggested title of the contribution. We ask you to send us this message by Mach 15th. The deadline for the manuscript submissions will be April 30th, which allows time for preparation and review. The Authors will have the possibility to apply for the SAGE award and the winning authors can present their work at the ESAO 2024 conference, providing a platform for networking and recognition. ",
-        image:"'./images/yesao_SI_cut_logo_blue.png'",
-        alt:"modern research laboratory scene, featuring young researchers of diverse ethnicities collaborating and discussing over a digital tablet. The background showcases a world map and flags, emphasizing international collaboration in a vibrant scientific environment.",
- },
+        title: "The yESAO Program 2024 is now available!",
+        shortText: "We are pleased to announce that the 2024 yESAO conference program is now available for download! Discover the exciting lineup of events, presentations, and workshops that await you. Simply click the link below to access the program and start planning your conference experience. We look forward to welcoming you to an enriching and engaging yESAO conference. Download the program now and get ready for a memorable event! <br><br> <a href='./images/yESAO2024.pdf' target='_blank'> <button class='button5'>Download Program</button> </a>",
+        longText: "We are pleased to announce that the 2024 yESAO conference program is now available for download! Discover the exciting lineup of events, presentations, and workshops that await you. Needless to say, we've also prepared a social program for you: On Saturday, we will all meet at Restaurant Kaiserwetter for the yESAO dinner. To help us plan ahead, we ask that you indicate your dinner order at the registration desk on Saturday morning. The dinner will be followed by our famous yESAO party at the Carl-Sonnenschein-Haus. We look forward to welcoming you to an enriching and engaging yESAO conference. Download the program now and get ready for a memorable event!  <br><br> <a href='./images/yESAO2024.pdf' target='_blank'> <button class='button5'>Download Program</button> </a>",
+        image:"'./images/yesao2023.JPG'",
+        alt: ""
+},
 
 {
     title: "yESAO is thrilled to announce the Winners of the 2024 yESAO Exchange Awards",
@@ -99,13 +98,6 @@ image:"'./images/buddyprogram.jpeg'",
 alt: "Two woman in formal clothes helping eachother in an office environment"
 },
 
-{
-title: "The yESAO Program is now availible!",
-shortText: "We are pleased to announce that the yESAO conference program is now available for download! Discover the exciting lineup of events, presentations, and workshops that await you. Simply click the link below to access the program and start planning your conference experience. We look forward to welcoming you to an enriching and engaging yESAO conference. Download the program now and get ready for a memorable event! <br><br> <a href='./yESAO_Program_2023.pdf' target='_blank'> <button class='button5'>Download Program</button> </a>",
-longText: "We are pleased to announce that the yESAO conference program is now available for download! Discover the exciting lineup of events, presentations, and workshops that await you. Simply click the link below to access the program and start planning your conference experience. We look forward to welcoming you to an enriching and engaging yESAO conference. Download the program now and get ready for a memorable event! <br><br> <a href='./yESAO_Program_2023.pdf' target='_blank'> <button class='button5'>Download Program</button> </a>",
-image:"'./images/yesao2023.JPG'",
-alt: ""
-},
 
 {
 title: "yESAO to Host Our First-Ever Webinar on Artificial Organs and Early Career Research Skills",
