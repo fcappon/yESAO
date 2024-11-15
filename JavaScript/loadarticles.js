@@ -77,7 +77,7 @@ const news =
         title: "Application for the yESAO Exchange Award 2025 is now open!",
         shortText: "We are excited to announce the opening of applications for the yESAO Research Exchange Program 2025! This unique opportunity allows young researchers within the European Society for Artificial Organs to expand their expertise, collaborate across institutions, and bring innovation to the field of artificial organs. <br><br> <a href='./images/Exchange Award 2025_info.pdf' target='_blank'> <button class='button5'>Download Information</button> </a> <br><br> <a href='./images/Exchange_Award_2025_template.docx' target='_blank'> <button class='button5'>Download Template</button> </a>" ,
         longText: "We are excited to announce the opening of applications for the yESAO Research Exchange Program 2025! This unique opportunity allows young researchers within the European Society for Artificial Organs to expand their expertise, collaborate across institutions, and bring innovation to the field of artificial organs. <br><br> <a href='./images/yESAO_Award_Info.pdf' target='_blank'> <button class='button5'>Download Information</button> </a> <br><br> <a href='./images/Exchange_Award_2025_template.docx' target='_blank'> <button class='button5'>Download Template</button> </a>",
-        image:"'./images/exchangeaward.JPG'",
+        image:"'./images/exchangeaward.jpg'",
         alt: ""
     },
 
