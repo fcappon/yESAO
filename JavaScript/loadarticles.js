@@ -74,20 +74,20 @@ alt:"ESAO and IFAO Congress Aachen Germany",
 const news = 
 [
     {
+        title: "yESAO is thrilled to announce the Winners of the 2025 yESAO Exchange Awards",
+        shortText: "After reviewing the several high-quality applications, we are thrilled to announce the Winners of the yESAO 2025 Exchange Award.",
+        longText: "Congratulations and good luck to this year’s yESAO Exchange Award winners! From yESAO we hope that the collaborations will be fruitful and that you will enjoy this great experience. This are the winners of this edition and the abstracts of their projects: <strong> Ilaria Guidetti and Canberk Yildirim </strong> will exchange between Politecnico di Milano (Italy) and the Koç University (Turkey) to developed the work: <i> The Right Beat: Optimizing RVADs for Right Heart Failure Patients</i>. <strong> Viraj Patel and Marko Grujic </strong> will exchange between the University of Bath (United Kingdom) and the Medical University of Vienna (Austria) to develop the work: <i> Machine Learning enhanced 3D intraventricular flow quantification from Ultrasound </i>",
+        image:"'./images/Exchange2025.jpg'",
+        alt:"modern research laboratory scene, featuring young researchers of diverse ethnicities collaborating and discussing over a digital tablet. The background showcases a world map and flags, emphasizing international collaboration in a vibrant scientific environment.",
+    },
+    
+    {
         title: "Application for the yESAO Exchange Award 2025 is now open!",
         shortText: "We are excited to announce the opening of applications for the yESAO Research Exchange Program 2025! This unique opportunity allows young researchers within the European Society for Artificial Organs to expand their expertise, collaborate across institutions, and bring innovation to the field of artificial organs. <br><br> <a href='./images/Exchange Award 2025_info.pdf' target='_blank'> <button class='button5'>Download Information</button> </a> <br><br> <a href='./images/Exchange_Award_2025_template.docx' target='_blank'> <button class='button5'>Download Template</button> </a>" ,
         longText: "We are excited to announce the opening of applications for the yESAO Research Exchange Program 2025! This unique opportunity allows young researchers within the European Society for Artificial Organs to expand their expertise, collaborate across institutions, and bring innovation to the field of artificial organs. <br><br> <a href='./images/yESAO_Award_Info.pdf' target='_blank'> <button class='button5'>Download Information</button> </a> <br><br> <a href='./images/Exchange_Award_2025_template.docx' target='_blank'> <button class='button5'>Download Template</button> </a>",
         image:"'./images/exchangeaward.jpg'",
         alt: ""
     },
-
-    {
-        title: "The yESAO Program 2024 is now available!",
-        shortText: "We are pleased to announce that the 2024 yESAO conference program is now available for download! Discover the exciting lineup of events, presentations, and workshops that await you. Simply click the link below to access the program and start planning your conference experience. We look forward to welcoming you to an enriching and engaging yESAO conference. Download the program now and get ready for a memorable event! <br><br> <a href='./images/yESAO2024.pdf' target='_blank'> <button class='button5'>Download Program</button> </a>",
-        longText: "We are pleased to announce that the 2024 yESAO conference program is now available for download! Discover the exciting lineup of events, presentations, and workshops that await you. Needless to say, we've also prepared a social program for you: On Saturday, we will all meet at Restaurant Kaiserwetter for the yESAO dinner. To help us plan ahead, we ask that you indicate your dinner order at the registration desk on Saturday morning. The dinner will be followed by our famous yESAO party at the Carl-Sonnenschein-Haus. We look forward to welcoming you to an enriching and engaging yESAO conference. Download the program now and get ready for a memorable event!  <br><br> <a href='./images/yESAO2024.pdf' target='_blank'> <button class='button5'>Download Program</button> </a>",
-        image:"'./images/yesao2023.JPG'",
-        alt: ""
-},
 
 {
     title: "yESAO is thrilled to announce the Winners of the 2024 yESAO Exchange Awards",
