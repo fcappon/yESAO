@@ -4,7 +4,7 @@
 const events =[
     {
         title: "Get your EARLY BIRD ticket for the ESAO and yESAO now (deadline April 25)",
-        shortText: "Get your EARLY BIRD ticket for the ESAO and yESAO now (deadline April 25)! <br><br> <button class='button5'><a href='https://www.esao2025.com/ticketing/' target='_blank'>Early Bird Tickets</a></button>  ESAO 2025 presents a dynamic four-day programme featuring keynote lectures, scientific symposia, interactive discussions, and poster presentations. The congress will showcase groundbreaking developments in (bio)artificial organs and organ models, including advances in bioengineering, biomaterials, hemodynamics, and clinical applications. You can find the preliminary programme here:<br><br> <button class='button5'><a href='https://www.esao2025.com/programme/esao/' target='_blank'>ESAO Programme</a></button>",
+        shortText: "Get your EARLY BIRD ticket for the ESAO and yESAO now (deadline April 25)! <br><br> <button class='button5'><a href='https://www.esao2025.com/ticketing/' target='_blank'>Early Bird Tickets</a></button> <p> ESAO 2025 presents a dynamic four-day programme featuring keynote lectures, scientific symposia, interactive discussions, and poster presentations. The congress will showcase groundbreaking developments in (bio)artificial organs and organ models, including advances in bioengineering, biomaterials, hemodynamics, and clinical applications. You can find the preliminary programme here:<br><br> <button class='button5'><a href='https://www.esao2025.com/programme/esao/' target='_blank'>ESAO Programme</a></button>",
         longText: "",
         image:"'./images/ESAO2025.png'",
         alt:"ESAO Congress Enschede, The Netherlands",
