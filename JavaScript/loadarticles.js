@@ -2,19 +2,13 @@
 
 // event data
 const events =[
-    {
-        title: "Get your EARLY BIRD ticket for the ESAO and yESAO now (deadline April 25)",
-        shortText: "Get your EARLY BIRD ticket for the ESAO and yESAO now (deadline April 25)! <br><br> <button class='button5'><a href='https://www.esao2025.com/ticketing/' target='_blank'>Early Bird Tickets</a></button> <p> ESAO 2025 presents a dynamic four-day programme featuring keynote lectures, scientific symposia, interactive discussions, and poster presentations. The congress will showcase groundbreaking developments in (bio)artificial organs and organ models, including advances in bioengineering, biomaterials, hemodynamics, and clinical applications. You can find the preliminary programme here:<br><br> <button class='button5'><a href='https://www.esao2025.com/programme/esao/' target='_blank'>ESAO Programme</a></button>",
-        longText: "Get your EARLY BIRD ticket for the ESAO and yESAO now (deadline April 25)! <br><br> <button class='button5'><a href='https://www.esao2025.com/ticketing/' target='_blank'>Early Bird Tickets</a></button> <p> ESAO 2025 presents a dynamic four-day programme featuring keynote lectures, scientific symposia, interactive discussions, and poster presentations. The congress will showcase groundbreaking developments in (bio)artificial organs and organ models, including advances in bioengineering, biomaterials, hemodynamics, and clinical applications. You can find the preliminary programme here:<br><br> <button class='button5'><a href='https://www.esao2025.com/programme/esao/' target='_blank'>ESAO Programme</a></button>",
-        image:"'./images/ESAO2025.png'",
-        alt:"ESAO Congress Enschede, The Netherlands",
-    },
+
 
     {
-        title: "yESAO Congress 2025",
-        shortText: "We are excited to announce the upcoming European Society for Artificial Organs (ESAO) Conference in Enschede, The Netherlands (June 23-28), with the yESAO taking place from the 23rd to the 24th of June, 2025. This conference is a significant event in the field of Artificial Organs and will bring together researchers, clinicians, and industry professionals from all over the world to discuss the latest advancements in the field. Stay tuned for more updates and registration details. We look forward to welcoming you in Enschede!<br><br> <button class='button5'><a href='https://www.esao2025.com/' target='_blank'>Website ESAO 2025</a></button>",
-        longText: "We are excited to announce the upcoming European Society for Artificial Organs (ESAO) Conference in Enschede, The Netherlands, taking place from the 23rd to the 28th of June, 2025. This conference is a significant event in the field of Artificial Organs and will bring together researchers, clinicians, and industry professionals from all over the world to discuss the8 latest advancements in the field.<br><br> As part of the ESAO conference, the yESAO meeting will take place on June 23-24, offering young researchers a platform to present their research and network with peers and senior members in the field.<br><br> The conference program includes keynote lectures, symposia, oral and poster presentations, and exhibition of the latest technological advancements in Artificial Organs. This is an excellent opportunity to learn about cutting-edge research, explore new technologies, and connect with colleagues from different parts of the world.<br><br> We invite all researchers, clinicians, and industry professionals interested in Artificial Organs to participate in this exciting event. Don't miss the chance to expand your knowledge, connect with peers, and enjoy the beautiful city of Enschede. <br><br> Stay tuned for more updates and registration details. We look forward to welcoming you in Enschede!<br><button class='button5'><a href='https://www.esao2025.com/' target='_blank'>Website ESAO 2025</a></button>",
-        image:"'./images/yESAO2025.png'",
+        title: "yESAO Congress 2026",
+        shortText: "We are excited to announce the upcoming 52nd European Society for Artificial Organs (ESAO) Conference in the historic and vibrant city of Iași, Romania. From September 9th to 12th, 2026, with the yESAO taking place from September 8th to 9th, 2026. We will gather to explore the forefront of innovation in artificial organ technology. Stay tuned for more updates and registration details. We look forward to welcoming you in Iași, Romania!<br><br> <button class='button5'><a href='https://esaocongress.org/' target='_blank'>Website ESAO 2026</a></button>",
+        longText: "We are excited to announce the upcoming 52nd European Society for Artificial Organs (ESAO) Conference in the historic and vibrant city of Iași, Romania. From September 9th to 12th, 2026, we will gather to explore the forefront of innovation in artificial organ technology. This conference is a significant event in the field of Artificial Organs and will bring together researchers, clinicians, and industry professionals from all over the world to discuss the8 latest advancements in the field.<br><br> As part of the ESAO conference, the yESAO meeting will take place from the 8th to the 9th of September, 2026, offering young researchers a platform to present their research and network with peers and senior members in the field.<br><br> The conference program includes keynote lectures, symposia, oral and poster presentations, and exhibition of the latest technological advancements in Artificial Organs. This is an excellent opportunity to learn about cutting-edge research, explore new technologies, and connect with colleagues from different parts of the world.<br><br> We invite all researchers, clinicians, and industry professionals interested in Artificial Organs to participate in this exciting event. Don't miss the chance to expand your knowledge, connect with peers, and enjoy the beautiful city of Iași, Romania. <br><br> Stay tuned for more updates and registration details. We look forward to welcoming you in Enschede!<br><button class='button5'><a href='https://esaocongress.org/' target='_blank'>Website ESAO 2026</a></button>",
+        image:"'./images/ESAO2026.png'",
         alt:"ESAO Congress Enschede, The Netherlands",
     }   
 
@@ -22,6 +16,16 @@ const events =[
 
 // past event data
 const pastevents =[
+
+
+    {
+        title: "yESAO Congress 2025",
+        shortText: "We are excited to announce the upcoming European Society for Artificial Organs (ESAO) Conference in Enschede, The Netherlands (June 23-28), with the yESAO taking place from the 23rd to the 24th of June, 2025. This conference is a significant event in the field of Artificial Organs and will bring together researchers, clinicians, and industry professionals from all over the world to discuss the latest advancements in the field. Stay tuned for more updates and registration details. We look forward to welcoming you in Enschede!<br><br> <button class='button5'><a href='https://www.esao2025.com/' target='_blank'>Website ESAO 2025</a></button>",
+        longText: "We are excited to announce the upcoming European Society for Artificial Organs (ESAO) Conference in Enschede, The Netherlands, taking place from the 23rd to the 28th of June, 2025. This conference is a significant event in the field of Artificial Organs and will bring together researchers, clinicians, and industry professionals from all over the world to discuss the8 latest advancements in the field.<br><br> As part of the ESAO conference, the yESAO meeting will take place on June 23-24, offering young researchers a platform to present their research and network with peers and senior members in the field.<br><br> The conference program includes keynote lectures, symposia, oral and poster presentations, and exhibition of the latest technological advancements in Artificial Organs. This is an excellent opportunity to learn about cutting-edge research, explore new technologies, and connect with colleagues from different parts of the world.<br><br> We invite all researchers, clinicians, and industry professionals interested in Artificial Organs to participate in this exciting event. Don't miss the chance to expand your knowledge, connect with peers, and enjoy the beautiful city of Enschede. <br><br> Stay tuned for more updates and registration details. We look forward to welcoming you in Enschede!<br><button class='button5'><a href='https://www.esao2025.com/' target='_blank'>Website ESAO 2025</a></button>",
+        image:"'./images/yESAO2025.png'",
+        alt:"ESAO Congress Enschede, The Netherlands",
+    },
+
     {
         title: "yESAO Congress 2024",
         shortText: "We are excited to announce the upcoming European Society for Artificial Organs (ESAO) conference in Aachen, Germany, with the yESAO taking place from September 7  to September 8, 2024. This conference is a significant event in the field of Artificial Organs and will bring together researchers, clinicians, and industry professionals from all over the world to discuss the latest advancements in the field. Stay tuned for more updates and registration details. We look forward to welcoming you in Aachen!<br><br> <button class='button5'><a href='https://www.esao2024.com/' target='_blank'>Website ESAO 2024</a></button>",
@@ -81,6 +85,14 @@ alt:"ESAO and IFAO Congress Aachen Germany",
 // news data
 const news = 
 [
+        {
+        title: "Application for the yESAO Exchange Award 2026 is now open!",
+        shortText: "We are excited to announce the opening of applications for the yESAO Research Exchange Program 2026! This unique opportunity allows young researchers within the European Society for Artificial Organs to expand their expertise, collaborate across institutions, and bring innovation to the field of artificial organs. <br><br> <a href='./images/Exchange_Program_Award_2026.pdf' target='_blank'> <button class='button5'>Download Information and Template</button> </a>" ,
+        longText: "We are excited to announce the opening of applications for the yESAO Research Exchange Program 2026! This unique opportunity allows young researchers within the European Society for Artificial Organs to expand their expertise, collaborate across institutions, and bring innovation to the field of artificial organs.  <br><br> <a href='./images/Exchange_Program_Award_2026.pdf' target='_blank'> <button class='button5'>Download Information and Template</button> </a>",
+        image:"'./images/exchangeaward.jpg'",
+        alt: ""
+    },
+
     {
         title: "yESAO is thrilled to announce the Winners of the 2025 yESAO Exchange Awards",
         shortText: "After reviewing the several high-quality applications, we are thrilled to announce the Winners of the yESAO 2025 Exchange Award.",
