@@ -2,8 +2,6 @@
 
 // event data
 const events =[
-
-
     {
         title: "yESAO Congress 2026",
         shortText: "We are excited to announce the upcoming 52nd European Society for Artificial Organs (ESAO) Conference in the historic and vibrant city of Iași, Romania. From September 9th to 12th, 2026, with the yESAO taking place from September 8th to 9th, 2026. We will gather to explore the forefront of innovation in artificial organ technology. Stay tuned for more updates and registration details. We look forward to welcoming you in Iași, Romania!<br><br> <button class='button5'><a href='https://esaocongress.org/' target='_blank'>Website ESAO 2026</a></button>",
@@ -16,8 +14,6 @@ const events =[
 
 // past event data
 const pastevents =[
-
-
     {
         title: "yESAO Congress 2025",
         shortText: "We are excited to announce the upcoming European Society for Artificial Organs (ESAO) Conference in Enschede, The Netherlands (June 23-28), with the yESAO taking place from the 23rd to the 24th of June, 2025. This conference is a significant event in the field of Artificial Organs and will bring together researchers, clinicians, and industry professionals from all over the world to discuss the latest advancements in the field. Stay tuned for more updates and registration details. We look forward to welcoming you in Enschede!<br><br> <button class='button5'><a href='https://www.esao2025.com/' target='_blank'>Website ESAO 2025</a></button>",
@@ -25,7 +21,6 @@ const pastevents =[
         image:"'./images/yESAO2025.png'",
         alt:"ESAO Congress Enschede, The Netherlands",
     },
-
     {
         title: "yESAO Congress 2024",
         shortText: "We are excited to announce the upcoming European Society for Artificial Organs (ESAO) conference in Aachen, Germany, with the yESAO taking place from September 7  to September 8, 2024. This conference is a significant event in the field of Artificial Organs and will bring together researchers, clinicians, and industry professionals from all over the world to discuss the latest advancements in the field. Stay tuned for more updates and registration details. We look forward to welcoming you in Aachen!<br><br> <button class='button5'><a href='https://www.esao2024.com/' target='_blank'>Website ESAO 2024</a></button>",
@@ -92,7 +87,6 @@ const news =
         image:"'./images/exchangeaward.jpg'",
         alt: ""
     },
-
     {
         title: "yESAO is thrilled to announce the Winners of the 2025 yESAO Exchange Awards",
         shortText: "After reviewing the several high-quality applications, we are thrilled to announce the Winners of the yESAO 2025 Exchange Award.",
